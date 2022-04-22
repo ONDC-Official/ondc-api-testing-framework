@@ -1,0 +1,11 @@
+{
+  "context":{
+
+  },
+  "message":{
+    "criteria":{
+      "category_id":"Fruit",
+      "delivery_location":"18.5204303,73.8567437"
+    }
+  }
+}

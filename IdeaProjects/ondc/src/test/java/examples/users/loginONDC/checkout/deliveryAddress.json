@@ -1,0 +1,16 @@
+{
+  "descriptor":{
+    "name":"Roshan",
+    "email":"romal161193@gmail.com",
+    "phone":"7979981889"
+  },
+  "address":{
+    "area_code":"411045",
+    "building":"Balewadi",
+    "city":"Pune",
+    "country":"IND",
+    "door":"Balewadi",
+    "state":"Maharashtra",
+    "street":"Balewadi High Street"
+  }
+}

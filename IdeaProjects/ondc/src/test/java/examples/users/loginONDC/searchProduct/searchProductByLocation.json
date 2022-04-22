@@ -1,0 +1,11 @@
+{
+  "context":{
+
+  },
+  "message":{
+    "criteria":{
+      "search_string":"Apple",
+      "delivery_location":"12.9715987,77.5945627"
+    }
+  }
+}

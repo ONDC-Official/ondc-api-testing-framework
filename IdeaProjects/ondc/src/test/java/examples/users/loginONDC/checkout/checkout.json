@@ -1,0 +1,107 @@
+[
+  {
+    "context":{
+      "transaction_id":"50733caf-449b-4a8a-a31b-472d88db47dc"
+    },
+    "message":{
+      "cart":{
+        "items":[
+          {
+            "id":"20245_T106",
+            "quantity":{
+              "count":1
+            },
+            "bpp_id":"ondcmktp.nlincs.io/bpp",
+            "provider":{
+              "id":"NSTL Taco's",
+              "locations":[
+                "City Walk Mall Unit No-4, Second Floor, Saket District Centre, New Delhi - 110017 null"
+              ]
+            },
+            "product":{
+              "id":"20245_T106",
+              "descriptor":{
+                "name":"Apple Juice 200mL",
+                "images":[
+                  "https://nstoreassets.s3.amazonaws.com/20245/T106/T106_4hi1lbky4d7xx4.jpg"
+                ]
+              },
+              "price":{
+                "currency":"INR",
+                "value":50
+              },
+              "provider_name":"NSTL Taco's"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "context":{
+      "transaction_id":"50733caf-449b-4a8a-a31b-472d88db47dc"
+    },
+    "message":{
+      "cart":{
+        "items":[
+          {
+            "id":"G-0002",
+            "quantity":{
+              "count":1
+            },
+            "bpp_id":"bpp1.beckn.org",
+            "provider":{
+              "id":"453678",
+              "locations":[
+                "el"
+              ]
+            },
+            "product":{
+              "id":"G-0002",
+              "descriptor":{
+                "name":"G Fresh Royal Gala Apple",
+                "short_desc":"Weight 500 -700 g",
+                "long_desc":"Apple 4 units",
+                "images":[
+                  "https://bpp1.beckn.org/pub/media/catalog/product/s/9/s915cdbo9h.jpg"
+                ]
+              },
+              "price":{
+                "currency":"INR",
+                "value":213
+              },
+              "provider_name":"Grocery Retail"
+            }
+          },
+          {
+            "id":"SHA-APP-AGMARK-7878",
+            "quantity":{
+              "count":1
+            },
+            "bpp_id":"bpp1.beckn.org",
+            "provider":{
+              "id":"453678",
+              "locations":[
+                "el"
+              ]
+            },
+            "product":{
+              "id":"SHA-APP-AGMARK-7878",
+              "descriptor":{
+                "name":"Shimla Apple",
+                "images":[
+                  "https://bpp1.beckn.org/pub/media/catalog/product/a/p/apple-shimla_10.jpg"
+                ]
+              },
+              "price":{
+                "currency":"INR",
+                "value":130
+              },
+              "provider_name":"Grocery Retail"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

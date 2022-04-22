@@ -1,0 +1,11 @@
+{
+  "context":{
+
+  },
+  "message":{
+    "criteria":{
+      "provider_id":"Any",
+      "delivery_location":"18.5204303,73.8567437"
+    }
+  }
+}
